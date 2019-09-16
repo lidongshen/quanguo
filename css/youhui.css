@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.zong{
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    border:1px solid red;
+}
+.left{
+    width: 20%;
+    height: 100%;
+    background: #1F9AD3;
+    padding: 150px 0;
+    float: left;
+    box-sizing: border-box;
+}
+.left>div{
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+.left-one{
+    margin: 0  0 15px 15px;
+}
+.one-img{
+    width: 50px;
+    height: 100%;
+    float: left;
+    margin-right: 5px;
+    background: url("../img/location.png") no-repeat center / auto 100%;
+}
+.left-one p{
+    float: left;
+    width: auto;
+    height: 100%;
+    font-size: 18px;
+}
+.right-cont{
+    width: 80%;
+    height: 100%;
+    float: left;
+    padding: 20px 20px 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.right{
+    width:100%;
+    height: 100%;
+}
+.right-one{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.right-one p{
+    width: auto;
+    height:100%;
+    line-height: 40px;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.right-two{
+    width: 100%;
+    height: 30px;
+}
+.right-two p{
+    width:68px;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    border: 1px solid #CCC8BF;
+    background:  #1F9AD3;
+    font-size: 14px;
+}
+.table-box{
+    width: 98%;
+    height: 220px;
+    margin: 120px auto 0;
+    padding: 10px 0 0;
+    box-sizing: border-box;
+    background-color: #CEDAD6;
+}
+.table{
+    width: 98%;
+    height: 200px;
+    margin:0 auto;
+}
+td{
+    width: 155px;
+    height: auto;
+}
