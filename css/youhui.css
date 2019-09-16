@@ -5,13 +5,14 @@
 .zong{
     width: 1200px;
     height: 600px;
-    margin: 0 auto;
+    margin: 0 auto ;
+    box-shadow:0 0 20px #bbbbbb; 
     
 }
 .left{
     width: 20%;
     height: 100%;
-    background: #1F9AD3;
+    background-color: #02A0E9;
     padding: 150px 0;
     float: left;
     box-sizing: border-box;
@@ -56,13 +57,13 @@
 .right-one{
     width: 100%;
     height: 40px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 .right-one p{
     width: auto;
     height:100%;
     line-height: 40px;
-    font-size: 24px;
+    font-size: 30px;
     margin-bottom: 10px;
 }
 .right-two{
@@ -75,23 +76,27 @@
     line-height: 28px;
     text-align: center;
     border: 1px solid #CCC8BF;
-    background:  #1F9AD3;
+    background-color: #02A0E9;
     font-size: 14px;
 }
 .table-box{
     width: 98%;
-    height: 220px;
+    height:auto;
     margin: 120px auto 0;
-    padding: 10px 0 0;
+    padding: 10px 0 10px;
     box-sizing: border-box;
-    background-color: #CEDAD6;
+    background-color: #D3E9FE;
 }
 .table{
     width: 98%;
-    height: 200px;
+    height: auto;
     margin:0 auto;
 }
 td{
     width: 155px;
-    height: auto;
+    height: 30px;
+   
+}
+.tr-three{
+    color: #63B3D2;
 }
